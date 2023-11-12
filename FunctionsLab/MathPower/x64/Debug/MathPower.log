@@ -1,0 +1,3 @@
+﻿  MathPower.cpp
+C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\FunctionsLab\MathPower\MathPower.cpp(16,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MathPower.vcxproj -> C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\FunctionsLab\x64\Debug\MathPower.exe
