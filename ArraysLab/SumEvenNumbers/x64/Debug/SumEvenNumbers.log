@@ -1,0 +1,10 @@
+﻿  SumEvenNumbers.cpp
+C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(10,10): error C2131: expression did not evaluate to a constant
+  C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(10,10):
+  failure was caused by a read of a variable outside its lifetime
+  C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(10,10):
+  see usage of 'actualSize'
+  
+C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(15,7): warning C4552: '>>': result of expression not used
+C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(18,18): error C2143: syntax error: missing ';' before ':'
+C:\Users\Georgi Popov\source\CPlusPlusProjects\Softuni-CPlusPlusFundamentals\ArraysLab\SumEvenNumbers\SumEvenNumbers.cpp(18,23): error C2143: syntax error: missing ';' before ')'
