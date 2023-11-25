@@ -33,8 +33,6 @@ int main()
         for(int rotCnt=1;rotCnt<actualSize;rotCnt++)
             arr[rotCnt-1]=arr[rotCnt];
         arr[actualSize-1]=theFirst;
-        
-
     }
     printArray(arr,actualSize);
 }
