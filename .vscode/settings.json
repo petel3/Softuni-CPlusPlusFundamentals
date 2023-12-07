@@ -6,6 +6,10 @@
         "xlocale": "cpp",
         "xstring": "cpp",
         "strstream": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp"
     }
 }
