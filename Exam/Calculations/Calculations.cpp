@@ -21,10 +21,6 @@ int main()
         tokens.push_back(token);
     }
     int tempVal = 0;
-    if(tokens.size()==0){
-        cout << currentValue << ' ' << previousValue;
-    }
-    else{
     for (vector<string>::iterator it = tokens.begin(); it != tokens.end(); it++)
     {
         if (*it != "/" && *it != "-" && *it != "*" && *it != "+")
@@ -43,7 +39,7 @@ int main()
             }
             else if (*it == "-")
             {
-                currentValue = abs(previousValue - currentValue);
+                currentValue = abs(currentValue - previousValue);
                 previousValue = tempVal;
             }
             else if (*it == "+")
@@ -59,5 +55,4 @@ int main()
         }
     }
     cout << currentValue << ' ' << previousValue;
-    }
 }
